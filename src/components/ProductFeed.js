@@ -29,7 +29,6 @@ function ProductFeed({ products }) {
                 />
             ))}
         </div>
-
         {products.slice(4,products.length).map(({id, title, price, description, category, image}) => (
                 <Product
                     key={id}
