@@ -7,4 +7,4 @@ const firebaseConfig = {
     storageBucket: "e-clone-a396d.appspot.com",
     messagingSenderId: "920161663459",
     appId: "1:920161663459:web:88d6255a86cfee258608d6"
-  };
+};
